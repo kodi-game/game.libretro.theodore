@@ -15,9 +15,15 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Thomson - MO/TO (Theodore)</summary>
-		<description lang="en_GB">Supported files: .fd, .sap, .k7, .m7, .m5, .rom</description>
+		<description lang="en_GB">Emulator for Thomson MO/TO 8-bit computers.
+
+Supported files: .fd, .sap, .k7, .m7, .m5, .rom</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.theodore</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+		</assets>
 	</extension>
 </addon>
