@@ -33,7 +33,7 @@ msgid "Dump printer data to file"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Thomson flavor"
+msgid "Thomson model"
 msgstr ""
 
 msgctxt "#30005"
