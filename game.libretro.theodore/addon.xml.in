@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.theodore"
 		name="Thomson - MO/TO (Theodore)"
-		version="0.0.1.8"
-		provider-name="Libretro">
+		version="0.0.1.9"
+		provider-name="T. Lorblanches">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
