@@ -21,11 +21,11 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Auto run game"
+msgid "Thomson model"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Display hint to start a game"
+msgid "Auto run game"
 msgstr ""
 
 msgctxt "#30003"
@@ -33,15 +33,15 @@ msgid "Use game hash for autostart"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Floppy write protection"
+msgid "Display hint to start a game"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Dump printer data to file"
+msgid "Virtual keyboard transparency"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Thomson model"
+msgid "Floppy write protection"
 msgstr ""
 
 msgctxt "#30007"
@@ -49,5 +49,5 @@ msgid "Tape write protection"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Virtual keyboard transparency"
+msgid "Dump printer data to file"
 msgstr ""
