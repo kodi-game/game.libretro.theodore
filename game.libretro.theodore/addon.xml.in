@@ -14,8 +14,6 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Thomson - MO/TO (Theodore)</summary>
-		<description lang="en_GB">Emulator for Thomson MO/TO 8-bit computers.
 
 Supported files: .fd, .sap, .k7, .m7, .m5, .rom</description>
 		<license>GPLv3</license>
@@ -25,5 +23,9 @@ Supported files: .fd, .sap, .k7, .m7, .m5, .rom</description>
 			<icon>resources/icon.png</icon>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
+		<summary lang="en_GB">Thomson - MO/TO (Theodore)</summary>
+		<description lang="en_GB">Emulator for Thomson MO/TO 8-bit computers.
+
+Supported files: .fd, .sap, .k7, .m7, .m5, .rom</description>
 	</extension>
 </addon>

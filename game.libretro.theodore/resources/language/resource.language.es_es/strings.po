@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
+msgctxt "Addon Summary"
+msgid "Thomson - MO/TO (Theodore)"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Emulator for Thomson MO/TO 8-bit computers.
+
+Supported files: .fd, .sap, .k7, .m7, .m5, .rom"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Ajustes"
