@@ -22,6 +22,6 @@
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Thomson - MO/TO (Theodore)</summary>
-		<description lang="en_GB">Theodore is an emulator for Thomson MO/TO computers.[CR][CR]Thomson MO/TO is a family of 8-bit home computers produced by French company Thomson SA between 1982 and 1989.</description>
+		<description lang="en_GB">Emulator for Thomson MO/TO 8-bit computers.Supported files: .fd, .sap, .k7, .m7, .m5, .rom</description>
 	</extension>
 </addon>
