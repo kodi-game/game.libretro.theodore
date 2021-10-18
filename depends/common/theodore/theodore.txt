@@ -1,1 +1,1 @@
-theodore https://github.com/Zlika/theodore/archive/4299761d7e4386319a31639c9e067facaa23616d.tar.gz
+theodore https://github.com/Zlika/theodore/archive/3db44fd669f6a7e146cb19fe838846e9d290b7b6.tar.gz
