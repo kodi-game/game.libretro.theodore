@@ -15,7 +15,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.theodore/resources/icon.png)
+![Thomson - MO/TO (Theodore) icon](game.libretro.theodore/resources/icon.png)
 
 ### Fanart
 
@@ -23,4 +23,4 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.theodore/resources/screenshot-01.jpg)
+![Thomson - MO/TO (Theodore) screenshot](game.libretro.theodore/resources/screenshot-01.jpg)
