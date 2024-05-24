@@ -26,6 +26,7 @@
 		<description lang="da_DK">Theodore er en emulator til Thomson MO/TO-computere.[CR][CR]Thomson MO/TO er en familie af 8-bit hjemmecomputere produceret af det franske firma Thomson SA mellem 1982 og 1989.</description>
 		<description lang="en_GB">Theodore is an emulator for Thomson MO/TO computers.[CR][CR]Thomson MO/TO is a family of 8-bit home computers produced by French company Thomson SA between 1982 and 1989.</description>
 		<description lang="es_ES">Theodore es un emulador para ordenadores Thomson MO/TO.[CR][CR]Thomson MO/TO es una familia de ordenadores domésticos de 8 bits producidos por la empresa francesa Thomson SA entre 1982 y 1989.</description>
+		<description lang="sl_SI">Theodore je emulator za računalnike Thomson MO/TO.[CR][CR]Thomson MO/TO je družina 8-bitnih domačih računalnikov, ki jih je proizvajalo francosko podjetje Thomson SA med letoma 1982 in 1989.</description>
 		<description lang="zh_CN">Theodore 是 Thomson MO/TO 计算机的仿真器。Thomson MO/TO 是由法国汤姆森公司于1982年至1989年间生产的一系列8位家用电脑。</description>
 	</extension>
 </addon>
