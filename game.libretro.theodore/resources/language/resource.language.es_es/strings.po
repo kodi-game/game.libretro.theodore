@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Theodore is an emulator for Thomson MO/TO computers.[CR][CR]Thomson MO/TO is a family of 8-bit home computers produced by French company Thomson SA between 1982 and 1989."
 msgstr "Theodore es un emulador para ordenadores Thomson MO/TO.[CR][CR]Thomson MO/TO es una familia de ordenadores domésticos de 8 bits producidos por la empresa francesa Thomson SA entre 1982 y 1989."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Thomson model"
 msgstr "Modelo Thomson"
@@ -60,3 +56,7 @@ msgstr "Protección Contra Escritura en Cinta"
 msgctxt "#30008"
 msgid "Dump printer data to file"
 msgstr "Volcar Datos de Impresión a un Archivo"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
