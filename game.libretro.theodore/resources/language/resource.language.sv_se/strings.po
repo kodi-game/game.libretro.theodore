@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.theodore\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-02-03 13:46i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-theodore/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "Theodore är en emulator för Thomson MO/TO-datorer.[CR][CR]Thomson MO/T
 
 msgctxt "#30001"
 msgid "Thomson model"
-msgstr ""
+msgstr "Thomson-modell"
 
 msgctxt "#30002"
 msgid "Auto run game"
