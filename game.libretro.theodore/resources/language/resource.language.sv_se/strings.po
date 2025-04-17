@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.theodore\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-02-03 13:46i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-theodore/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Thomson - MO/TO (Theodore)"
@@ -29,33 +29,36 @@ msgctxt "#30001"
 msgid "Thomson model"
 msgstr "Thomson-modell"
 
+#, fuzzy
 msgctxt "#30002"
 msgid "Auto run game"
-msgstr ""
+msgstr "Auto kör spel"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "Use game hash for autostart"
-msgstr ""
+msgstr "Använd spelhash för autostart"
 
 msgctxt "#30004"
 msgid "Display hint to start a game"
-msgstr ""
+msgstr "Visa en ledtråd för att starta ett spel"
 
 msgctxt "#30005"
 msgid "Virtual keyboard transparency"
-msgstr ""
+msgstr "Transparens i virtuellt tangentbord"
 
 msgctxt "#30006"
 msgid "Floppy write protection"
-msgstr ""
+msgstr "Skrivskydd för disketter"
 
 msgctxt "#30007"
 msgid "Tape write protection"
-msgstr ""
+msgstr "Skrivskydd för band"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Dump printer data to file"
-msgstr ""
+msgstr "Dumpa skrivardata till fil"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
