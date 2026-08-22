@@ -1,1 +1,1 @@
-theodore https://github.com/Zlika/theodore/archive/4d469ce0f71ee046ceb78cdbf8e9f18364aaa918.tar.gz
+theodore https://github.com/kodi-game/theodore/archive/76a651e388a8e24c9372bd9d1498b901a370bba6.tar.gz
