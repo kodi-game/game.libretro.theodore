@@ -9,15 +9,15 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>TO8</option>
-							<option>TO8D</option>
-							<option>TO9</option>
-							<option>TO9+</option>
-							<option>MO5</option>
-							<option>MO6</option>
-							<option>PC128</option>
-							<option>TO7</option>
-							<option>TO7/70</option>
+							<option label="30009">TO8</option>
+							<option label="30010">TO8D</option>
+							<option label="30011">TO9</option>
+							<option label="30012">TO9+</option>
+							<option label="30013">MO5</option>
+							<option label="30014">MO6</option>
+							<option label="30015">PC128</option>
+							<option label="30016">TO7</option>
+							<option label="30017">TO7/70</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
