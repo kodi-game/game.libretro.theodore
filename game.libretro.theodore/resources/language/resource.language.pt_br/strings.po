@@ -57,6 +57,42 @@ msgctxt "#30008"
 msgid "Dump printer data to file"
 msgstr ""
 
+msgctxt "#30009"
+msgid "TO8"
+msgstr ""
+
+msgctxt "#30010"
+msgid "TO8D"
+msgstr ""
+
+msgctxt "#30011"
+msgid "TO9"
+msgstr ""
+
+msgctxt "#30012"
+msgid "TO9+"
+msgstr ""
+
+msgctxt "#30013"
+msgid "MO5"
+msgstr ""
+
+msgctxt "#30014"
+msgid "MO6"
+msgstr ""
+
+msgctxt "#30015"
+msgid "PC128"
+msgstr ""
+
+msgctxt "#30016"
+msgid "TO7"
+msgstr ""
+
+msgctxt "#30017"
+msgid "TO7/70"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Configurações"
