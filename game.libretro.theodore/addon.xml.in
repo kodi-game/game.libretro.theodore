@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.theodore"
 		name="Thomson - MO/TO (Theodore)"
-		version="0.0.1.48"
+		version="0.0.1.49"
 		provider-name="T. Lorblanches">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -14,6 +14,7 @@
 		<supports_standalone>true</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
 		<libretro_core>theodore_libretro</libretro_core>
+		<savestate_features>serialized</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv3</license>
